@@ -6,3 +6,8 @@
  Live Design :- https://www.figma.com/proto/9xKQheeAVZWpZ64Q5uyhg2/UI-Day-01?node-id=0%3A3
 
 Credits :- https://www.youtube.com/watch?v=xyr3Vj83lJI
+
+### Day 02 Design (Solana Website Design Clone) 
+ Live Design :- https://www.figma.com/proto/ei4wJoPKt0Q2FMEbJazr7c/UI-Day-02?node-id=0%3A1&scaling=scale-down&page-id=0%3A1
+
+Credits :- https://solana.com/
