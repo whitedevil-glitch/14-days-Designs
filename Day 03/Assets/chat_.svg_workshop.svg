@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="162px" viewBox="0 0 162 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <linearGradient x1="4.42287153%" y1="31.3555351%" x2="80.5521781%" y2="3.73615496%" id="linearGradient-1">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-34.4%" y="-34.4%" width="168.8%" height="168.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="11" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="4.42287153%" y1="48.556141%" x2="233.53746%" y2="48.5561206%" id="linearGradient-3">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIO-WEB-WWW-HOME" transform="translate(-1047.000000, -3376.000000)">
+            <g id="Group-12" transform="translate(1077.000000, 3398.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.222157796" filter="url(#filter-2)" cx="51" cy="59" r="48"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" fill="#000000" fill-rule="nonzero" cx="48" cy="48" r="48"></circle>
+                <g id="Group-21" transform="translate(36.000138, 36.006247)">
+                    <g id="Group-20">
+                        <path d="M4.31186937,21.2143322 C1.67625041,19.0132364 0,15.702235 0,11.9998373 C0,5.37295215 5.37213844,0 11.9998373,0 C18.6267224,0 23.9996745,5.37295215 23.9996745,11.9998373 C23.9996745,18.6275361 18.6267224,23.9996745 11.9998373,23.9996745" id="Stroke-1" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M6.69240254,10.8286858 C7.33999275,10.8286858 7.86379811,11.3524912 7.86379811,12.0000814 C7.86379811,12.6476716 7.33999275,13.1714769 6.69240254,13.1714769 C6.04481233,13.1714769 5.52100697,12.6476716 5.52100697,12.0000814 C5.52100697,11.3524912 6.04481233,10.8286858 6.69240254,10.8286858 Z M17.3067024,10.8286858 C17.9542926,10.8286858 18.4780979,11.3524912 18.4780979,12.0000814 C18.4780979,12.6476716 17.9542926,13.1714769 17.3067024,13.1714769 C16.6591122,13.1714769 16.1353068,12.6476716 16.1353068,12.0000814 C16.1353068,11.3524912 16.6591122,10.8286858 17.3067024,10.8286858 Z M11.9996176,10.8286858 C12.6472078,10.8286858 13.1710132,11.3524912 13.1710132,12.0000814 C13.1710132,12.6476716 12.6472078,13.1714769 11.9996176,13.1714769 C11.3520274,13.1714769 10.828222,12.6476716 10.828222,12.0000814 C10.828222,11.3524912 11.3520274,10.8286858 11.9996176,10.8286858 Z" id="Combined-Shape" fill="#FF4B11"></path>
+                    </g>
+                    <polyline id="Stroke-3" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="11.9995931 24 1.98765867 24 4.31243897 21.213844"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

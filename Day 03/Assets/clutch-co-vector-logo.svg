@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clutch-co-vector-logo</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIO-WEB-WWW-SERVICES" transform="translate(-1280.000000, -99.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Header" transform="translate(375.000000, 80.000000)">
+                <g id="clutch-co-vector-logo" transform="translate(905.000000, 19.000000)">
+                    <path d="M12.5057471,12.6734694 C11.5862069,13.4081633 10.2988506,13.9591837 9.01149425,13.9591837 C6.06896552,13.9591837 4.04597701,11.755102 4.04597701,8.81632653 C4.04597701,5.87755102 6.06896552,3.85714286 9.01149425,3.85714286 C10.2988506,3.85714286 11.5862069,4.2244898 12.5057471,5.14285714 L13.0574713,5.69387755 L16,2.93877551 L15.2643678,2.3877551 C13.6091954,0.918367347 11.4022989,0 9.01149425,0 C3.86206897,0 0,3.85714286 0,9 C0,14.1428571 3.86206897,18 9.01149425,18 C11.4022989,18 13.6091954,17.0816327 15.2643678,15.6122449 L16,15.0612245 L13.0574713,12.122449 L12.5057471,12.6734694 Z" id="Path"></path>
+                    <ellipse id="Oval" cx="8.82758621" cy="9" rx="2.94252874" ry="2.93877551"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

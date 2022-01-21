@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="162px" viewBox="0 0 162 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 25</title>
+    <defs>
+        <linearGradient x1="4.42287153%" y1="31.3555351%" x2="80.5521781%" y2="3.73615496%" id="linearGradient-1">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-34.4%" y="-34.4%" width="168.8%" height="168.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="11" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="-100.392868%" y1="100%" x2="78.1416073%" y2="3.73615496%" id="linearGradient-3">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.42287153%" y1="31.3555351%" x2="80.5521781%" y2="3.73615496%" id="linearGradient-4">
+            <stop stop-color="#FF201D" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="49.7185487%"></stop>
+            <stop stop-color="#FF5100" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIO-WEB-WWW-HOME" transform="translate(-1368.000000, -3378.000000)">
+            <g id="Group-25" transform="translate(1398.000000, 3400.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.222157796" filter="url(#filter-2)" cx="51" cy="59" r="48"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" fill="#000000" fill-rule="nonzero" cx="48" cy="48" r="48"></circle>
+                <g id="box" transform="translate(48.000000, 48.000000) scale(-1, 1) translate(-48.000000, -48.000000) translate(37.000000, 37.000000)" stroke-linejoin="round" stroke-width="2">
+                    <g id="Group-22">
+                        <polyline id="Shape" stroke="url(#linearGradient-3)" fill="#000000" fill-rule="nonzero" points="7.37 22 7.37 14.3208327 0 14.3208327"></polyline>
+                        <polygon id="Rectangle" stroke="url(#linearGradient-4)" stroke-linecap="round" points="0 0 22 0 22 22 7.33300669 22 0 14.3490308"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

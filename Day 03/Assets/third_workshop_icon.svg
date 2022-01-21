@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="162px" viewBox="0 0 162 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 13</title>
+    <defs>
+        <linearGradient x1="4.42287153%" y1="31.3555351%" x2="80.5521781%" y2="3.73615496%" id="linearGradient-1">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-34.4%" y="-34.4%" width="168.8%" height="168.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="11" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="4.42287153%" y1="49.2542214%" x2="80.5521781%" y2="48.1494462%" id="linearGradient-3">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.1769149%" y1="31.3555351%" x2="51.2220871%" y2="3.73615496%" id="linearGradient-4">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.42287153%" y1="49.6195007%" x2="80.5521781%" y2="49.0558399%" id="linearGradient-5">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIO-WEB-WWW-HOME" transform="translate(-1192.000000, -3376.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(1222.000000, 3398.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.222157796" filter="url(#filter-2)" cx="51" cy="59" r="48"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" fill="#000000" cx="48" cy="48" r="48"></circle>
+                <g id="Group-17" transform="translate(36.000039, 36.000000)" stroke-width="2">
+                    <g id="Group-11" transform="translate(0.000000, 7.020486)" fill="#000000">
+                        <polyline id="Stroke-1" stroke="url(#linearGradient-1)" points="16.9791238 14.2493248 16.9791238 16.5894868 14.6389617 16.5894868"></polyline>
+                        <line x1="10.3086479" y1="16.5894868" x2="6.80818652" y2="16.5894868" id="Stroke-3" stroke="url(#linearGradient-3)"></line>
+                        <polyline id="Stroke-5" stroke="url(#linearGradient-1)" points="2.73018907 16.5894868 0.390027009 16.5894868 0.390027009 14.2493248"></polyline>
+                        <line x1="0.390027009" y1="9.91869887" x2="0.390027009" y2="6.44248647" id="Stroke-7" stroke="url(#linearGradient-4)"></line>
+                        <polyline id="Stroke-9" stroke="url(#linearGradient-1)" points="0.390027009 2.34016206 0.390027009 0 2.73018907 0"></polyline>
+                    </g>
+                    <line x1="7.06050294" y1="7.02048617" x2="11.7484508" y2="7.02048617" id="Stroke-12" stroke="url(#linearGradient-5)" fill="#000000"></line>
+                    <polyline id="Stroke-13" stroke="url(#linearGradient-1)" fill="#000000" points="14.6389617 7.02048617 16.9791238 7.02048617 16.9791238 9.36064822"></polyline>
+                    <line x1="16.9791238" y1="13.6913521" x2="16.9791238" y2="17.0056518" id="Stroke-14" stroke="url(#linearGradient-4)" fill="#000000"></line>
+                    <polyline id="Stroke-15" stroke="url(#linearGradient-1)" points="7.41051318 8.01676497 7.41051318 0 23.999922 0 23.999922 16.5894088 15.9812205 16.5894088"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

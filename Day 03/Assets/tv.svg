@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="162px" height="162px" viewBox="0 0 162 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 24</title>
+    <defs>
+        <linearGradient x1="4.42287153%" y1="31.3555351%" x2="80.5521781%" y2="3.73615496%" id="linearGradient-1">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-34.4%" y="-34.4%" width="168.8%" height="168.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="11" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="4.42287153%" y1="41.7135711%" x2="80.5521781%" y2="29.4382911%" id="linearGradient-3">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.42287153%" y1="49.0792857%" x2="80.5521781%" y2="47.7153657%" id="linearGradient-4">
+            <stop stop-color="#FF5100" offset="0%"></stop>
+            <stop stop-color="#FF4721" offset="50.2814513%"></stop>
+            <stop stop-color="#FF201D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIO-WEB-WWW-HOME" transform="translate(-1504.000000, -3377.000000)" fill-rule="nonzero">
+            <g id="Group-24" transform="translate(1534.000000, 3399.000000)">
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="48" cy="48" r="48"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.222157796" filter="url(#filter-2)" cx="51" cy="59" r="48"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" fill="#000000" cx="48" cy="48" r="48"></circle>
+                <g id="Group-23" transform="translate(34.285714, 36.000000)" stroke-width="2">
+                    <rect id="Rectangle" stroke="url(#linearGradient-3)" stroke-linejoin="round" x="0" y="0" width="27.4285714" height="18.2857143"></rect>
+                    <line x1="13.7142857" y1="18.2857143" x2="13.7142857" y2="23.3233723" id="Path-2" stroke="#FF481E" fill="#000000"></line>
+                    <line x1="18.1971652" y1="23.3233723" x2="9.14285714" y2="23.3233723" id="Path-2-Copy" stroke="url(#linearGradient-4)" fill="#000000" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
