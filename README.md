@@ -14,3 +14,5 @@ Credits :- https://solana.com/
 
 ### Day 03 Design (Riotters Design)
  Live Design :- https://www.figma.com/proto/MEb7bQlqGZdwdQphUnqEdG/Riotters?node-id=0%3A1&scaling=scale-down&page-id=0%3A1
+
+Credits :- https://www.riotters.com/
