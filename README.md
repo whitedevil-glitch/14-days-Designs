@@ -11,3 +11,5 @@ Credits :- https://www.youtube.com/watch?v=xyr3Vj83lJI
  Live Design :- https://www.figma.com/proto/ei4wJoPKt0Q2FMEbJazr7c/UI-Day-02?node-id=0%3A1&scaling=scale-down&page-id=0%3A1
 
 Credits :- https://solana.com/
+
+### Day 03 Design (Riotters Design)
