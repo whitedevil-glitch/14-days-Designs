@@ -23,6 +23,6 @@ Credits :- https://www.riotters.com/
 Credits :- https://www.spacex.com/
 
 ### Day 05 Design (Affirm-Design-Website)
-Live Design :- 
+Live Design :- https://www.figma.com/proto/I0OyOQ5F8ysjQGoZ3e1KHz/Affirm-(Day-05)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1
 
 Credits :- https://www.affirm.com/
