@@ -10,4 +10,4 @@ Day 03| **Riotters**| [Live Demo](https://www.figma.com/proto/MEb7bQlqGZdwdQphUn
 Day 04| **SpaceX**| [Live Demo](https://www.figma.com/proto/0jU4KfTXmCFqprjX9AGfFD/SpaceX-(Day-04)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.spacex.com/)
 Day 05| **Affirm**| [Live Demo](https://www.figma.com/proto/I0OyOQ5F8ysjQGoZ3e1KHz/Affirm-(Day-05)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.affirm.com/)
 Day 06| **LemonSqueezy**| [Live Demo](https://www.figma.com/proto/jhC2R1zDC4VARI2PXiXgt8/LemonSqueezy-Day-06?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.lemonsqueezy.com/)
-Day 06| **Anagram**| [Live Demo]()| [Credits]()
+Day 06| **Anagram**| [Live Demo](https://www.figma.com/proto/jspiIeWZmSZugTXD1Om4AK/Anagram-Day-07?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)| [Credits]()
