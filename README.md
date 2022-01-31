@@ -15,4 +15,4 @@ Day 08| **PrimaHealth**| [Live Demo](https://www.figma.com/proto/VRFfMzfar269HAx
 Day 09| **StudioX**| [Live Demo](https://www.figma.com/proto/5enXR6SFoMCnsFSwJjJXLZ/StudioX-Day-09?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)| [Credits](https://studiotemplates.webflow.io/)
 Day 10| **PinPoint**| [Live Demo](https://www.figma.com/proto/nCQu6cdXsSY9KHahy7Dsn6/PinPoint-(Day-10)?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.pinpointhq.com/)
 Day 11| **CalculatorApp**| [Live Demo](https://www.figma.com/proto/RVZlRPXG6RuxAuwPNlgQvg/CalculatorApp-(Day-11)?node-id=5%3A2&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.youtube.com/watch?v=_9dMs1TJmao)
-Day 11| **MusicPlayer App**| [Live Demo]()| [Credits]()
+Day 11| **MusicPlayer App**| [Live Demo](https://www.figma.com/proto/UMWAT85O0xZ4lIKWhPDTqC/Music-Player-(Day-12)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits]()
