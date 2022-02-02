@@ -17,4 +17,4 @@ Day 10| **PinPoint**| [Live Demo](https://www.figma.com/proto/nCQu6cdXsSY9KHahy7
 Day 11| **CalculatorApp**| [Live Demo](https://www.figma.com/proto/RVZlRPXG6RuxAuwPNlgQvg/CalculatorApp-(Day-11)?node-id=5%3A2&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.youtube.com/watch?v=_9dMs1TJmao)
 Day 12| **MusicPlayer App**| [Live Demo](https://www.figma.com/proto/UMWAT85O0xZ4lIKWhPDTqC/Music-Player-(Day-12)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits](https://www.youtube.com/watch?v=saACe7smY4Y)
 Day 13| **AppFlow Web**| [Live Demo](https://www.figma.com/proto/DcxxdR78udXUdIfOhVqmfl/AppFlow-(Day-13)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits](https://appflow-webflow-html-website-template.webflow.io/)
-Day 14| **Wage Web**| [Live Demo](https://www.figma.com/proto/KB9C275EUd3LHql8kQ9U7G/Wage-(Day-14)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits]()
+Day 14| **Wage Web**| [Live Demo](https://www.figma.com/proto/KB9C275EUd3LHql8kQ9U7G/Wage-(Day-14)?node-id=0%3A3&scaling=scale-down&page-id=0%3A1)| [Credits](https://wage.numbered.studio/)
