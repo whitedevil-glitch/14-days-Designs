@@ -1,5 +1,5 @@
-# 50-days-of-Designs
-50 days of my Figma Design Practice from various inspired artists/designs from dribbble, youtube etc...
+# 14-days-of-Designs
+14 days of my Figma Design Practice from various inspired artists/designs from dribbble, youtube etc...
 
 
 Days  | Design-Name     | LiveDemo                                                                                                           | Credits
